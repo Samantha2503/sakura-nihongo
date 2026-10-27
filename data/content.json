@@ -1,0 +1,9 @@
+{
+  "lessons": [
+    {"id":"greetings","title":"Saludos","jp":"あいさつ","emoji":"🌸","description":"Saluda y despídete con confianza.","words":[["こんにちは","konnichiwa","Hola","👋"],["おはよう","ohayou","Buenos días","🌅"],["こんばんは","konbanwa","Buenas noches (saludo)","🌙"],["ありがとう","arigatou","Gracias","💝"],["さようなら","sayounara","Adiós","👋"],["すみません","sumimasen","Disculpa / perdón","🙇"]]},
+    {"id":"instructions","title":"Instrucciones de clase","jp":"きょうしつ","emoji":"📚","description":"Comprende frases sencillas del aula.","words":[["きいてください","kiite kudasai","Escucha, por favor","👂"],["みてください","mite kudasai","Mira, por favor","👀"],["いってください","itte kudasai","Di / repite, por favor","🗣️"],["かいてください","kaite kudasai","Escribe, por favor","✏️"],["よんでください","yonde kudasai","Lee, por favor","📖"],["もういちどおねがいします","mou ichido onegaishimasu","Una vez más, por favor","🔁"]]},
+    {"id":"animals","title":"Animales","jp":"どうぶつ","emoji":"🐱","description":"Vocabulario ilustrado de animales cotidianos.","words":[["ねこ","neko","Gato","🐱"],["いぬ","inu","Perro","🐶"],["とり","tori","Pájaro","🐦"],["さかな","sakana","Pez","🐟"],["うさぎ","usagi","Conejo","🐰"],["うま","uma","Caballo","🐴"]]},
+    {"id":"colors","title":"Colores","jp":"いろ","emoji":"🎨","description":"Identifica seis colores básicos.","words":[["あか","aka","Rojo","🔴"],["あお","ao","Azul","🔵"],["きいろ","kiiro","Amarillo","🟡"],["みどり","midori","Verde","🟢"],["しろ","shiro","Blanco","⚪"],["くろ","kuro","Negro","⚫"]]},
+    {"id":"food","title":"Comida y bebidas","jp":"たべもの","emoji":"🍙","description":"Palabras útiles para comer y beber.","words":[["みず","mizu","Agua","💧"],["おちゃ","ocha","Té","🍵"],["ごはん","gohan","Arroz / comida","🍚"],["パン","pan","Pan","🍞"],["たまご","tamago","Huevo","🥚"],["くだもの","kudamono","Fruta","🍎"]]}
+  ]
+}
